@@ -80,7 +80,6 @@ interface.
 **OrganizationInformation -** this class contains dataprovided by entities.
 
 ```
-Project was created by: Bobiev Nodir, Davlatkhodja Magzumov, Aibek Bakirov, Valikhan
-Ilyasov and Kaiyrly Alimzhan
+
 ```
 
